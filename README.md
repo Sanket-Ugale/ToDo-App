@@ -77,8 +77,7 @@
     <hr width="50%" />
   </span>
   <h2>
-    Technology Used
+    Technologys Used
   </h2>
-  To develop this Application: <br>
-  1. <strong>Flutter</strong> Framework is Used. <br>
-  2. <strong>Hive</strong> as a local database.
+  1. <strong>Flutter</strong> Framework. <br>
+  2. <strong>Hive</strong> local database.
