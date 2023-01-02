@@ -35,42 +35,44 @@
     Screenshots
   </h2>
   <div style="text-align: center;">
-    <span style=" padding: 3%;">
-      <img style=" margin-top: 7px;
-      box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
-        0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
-        src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_1.png" alt="Screenshot_1"
-        height="400" width="200"></span>
-    <span style=" padding: 3%;"><img style=" margin-top: 7px;
-      box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
-        0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
-        src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_2.png" alt="Screenshot_2"
-        height="400" width="200"></span>
-    <span style=" padding: 3%;"><img style=" margin-top: 7px;
-      box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
-        0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
-        src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_3.png" alt="Screenshot_3"
-        height="400" width="200"></span>
-    <span style=" padding: 3%;"><img style=" margin-top: 7px;
-      box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
-        0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
-        src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_4.png" alt="Screenshot_4"
-        height="400" width="200"></span>
-    <span style=" padding: 3%;"><img style=" margin-top: 7px;
-      box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
-        0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
-        src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_5.png" alt="Screenshot_5"
-        height="400" width="200"></span>
-    <span style=" padding: 3%;"><img style=" margin-top: 7px;
-      box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
-        0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
-        src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_6.png" alt="Screenshot_6"
-        height="400" width="200"></span>
-    <span style=" padding: 3%;"><img style=" margin-top: 7px;
-      box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
-        0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
-        src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_7.png" alt="Screenshot_7"
-        height="400" width="200"></span>
+<center>
+      <span style=" padding: 3%;">
+        <img style=" margin-top: 7px;
+        box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+          0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
+          src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_1.png" alt="Screenshot_1"
+          height="400" width="200"></span>
+      <span style=" padding: 3%;"><img style=" margin-top: 7px;
+        box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+          0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
+          src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_2.png" alt="Screenshot_2"
+          height="400" width="200"></span>
+      <span style=" padding: 3%;"><img style=" margin-top: 7px;
+        box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+          0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
+          src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_3.png" alt="Screenshot_3"
+          height="400" width="200"></span>
+      <span style=" padding: 3%;"><img style=" margin-top: 7px;
+        box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+          0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
+          src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_4.png" alt="Screenshot_4"
+          height="400" width="200"></span>
+      <span style=" padding: 3%;"><img style=" margin-top: 7px;
+        box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+          0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
+          src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_5.png" alt="Screenshot_5"
+          height="400" width="200"></span>
+      <span style=" padding: 3%;"><img style=" margin-top: 7px;
+        box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+          0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
+          src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_6.png" alt="Screenshot_6"
+          height="400" width="200"></span>
+      <span style=" padding: 3%;"><img style=" margin-top: 7px;
+        box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+          0.3em 0.3em 1em rgba(0, 0, 0, 0.3);" class="img"
+          src="https://raw.githubusercontent.com/Sanket-Ugale/ToDo-App/main/assets/Screenshot_7.png" alt="Screenshot_7"
+          height="400" width="200"></span>
+    </center>
   </div>
   <br>
   <span align="center">
