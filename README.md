@@ -1,4 +1,5 @@
- <h1 align= "center">X ToDo</h1>
+ # X ToDo
+<span></span>
   <br>
   <div align="center">
     X ToDO is a ToDo Aplication developed for android devices to remind and list daily tasks and goals.
